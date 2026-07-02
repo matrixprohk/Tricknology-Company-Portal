@@ -1,0 +1,25 @@
+# Database configuration
+config/database.php
+config/installed.lock
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+uploads/documents/*
+!uploads/documents/.gitkeep
+
+# Backup files
+backup/*
+!backup/.gitkeep
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store

@@ -1,0 +1,153 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body{
+
+    background:#eef2f7;
+
+    font-family:Segoe UI;
+
+}
+
+.installer-box{
+
+    width:700px;
+
+    margin:80px auto;
+
+    background:white;
+
+    padding:40px;
+
+    border-radius:10px;
+
+    box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
+
+h1{
+
+    font-size:42px;
+
+    color:#2c3e50;
+
+}
+
+h2{
+
+    margin-top:10px;
+
+    color:#3498db;
+
+}
+
+p{
+
+    margin-top:15px;
+
+    color:#666;
+
+}
+
+.check-list{
+
+    margin-top:30px;
+
+    margin-left:20px;
+
+}
+
+.check-list li{
+
+    margin-bottom:12px;
+
+    font-size:18px;
+
+}
+
+.btn{
+
+    display:inline-block;
+
+    margin-top:35px;
+
+    background:#0d6efd;
+
+    color:white;
+
+    text-decoration:none;
+
+    padding:15px 35px;
+
+    border-radius:8px;
+
+    font-size:18px;
+
+}
+
+.btn:hover{
+
+    background:#0b5ed7;
+
+}
+
+label{
+
+    display:block;
+
+    margin-top:20px;
+
+    margin-bottom:8px;
+
+    font-weight:bold;
+
+}
+
+input{
+
+    width:100%;
+
+    padding:12px;
+
+    border:1px solid #ccc;
+
+    border-radius:6px;
+
+    font-size:16px;
+
+}
+
+.success{
+
+    background:#d4edda;
+
+    color:#155724;
+
+    padding:15px;
+
+    border-radius:6px;
+
+    margin-top:20px;
+
+    margin-bottom:20px;
+
+}
+
+.error{
+
+    background:#f8d7da;
+
+    color:#721c24;
+
+    padding:15px;
+
+    border-radius:6px;
+
+    margin-top:20px;
+
+    margin-bottom:20px;
+
+}
