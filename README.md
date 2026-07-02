@@ -102,7 +102,55 @@
 
 
 
-**(Add screenshots here)**
+# Screenshots
+
+## Login
+
+![Login](screenshots/login.png)
+
+---
+
+## Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+---
+
+## Users
+
+![Users](screenshots/users.png)
+
+---
+
+
+## Announcements
+
+![Announcements](screenshots/announcements.png)
+
+---
+
+## Upload Center
+
+![Upload Center](screenshots/upload-center.png)
+
+---
+
+## Activity Logs
+
+![Activity Logs](screenshots/activity-logs.png)
+
+---
+
+## Settings
+
+![Settings](screenshots/settings.png)
+
+---
+
+## Installer
+
+![Installer](screenshots/installer.png)
+
 
 
 
