@@ -1,6 +1,10 @@
 **# Company Portal**
 
-[![Watch the Video](https://img.youtube.com/vi/abc123XYZ/maxresdefault.jpg)](https://youtu.be/9pymxnQ8JKc)
+<p align="center">
+  <a href="https://youtu.be/abc123XYZ">
+    <img src="https://img.youtube.com/vi/abc123XYZ/maxresdefault.jpg" width="800">
+  </a>
+</p>
 
 **Modern Company Portal built using**
 
